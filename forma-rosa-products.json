@@ -436,7 +436,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 45,
@@ -487,7 +490,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 46,
@@ -528,7 +534,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 47,
@@ -569,7 +578,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 48,
@@ -610,7 +622,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 49,
@@ -651,7 +666,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 50,
@@ -692,7 +710,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 51,
@@ -733,7 +754,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "300lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 52,
@@ -1685,7 +1709,26 @@
       "voltage": "120V",
       "dimmable": "Yes",
       "hanging_dimension": "8ft (Adjustable)",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
+      "product_description": "Capullo Pendant is a handcrafted ceramic pendant featuring two mouthblown glass globes, inspired by the cocoon structures of insects as the name \u201cCapullo\u201d reflects. The unique hanging ring resembles a piercing, accentuating the organic and fleshy look of the hanging light sculpture.",
+      "carton_dimensions": [
+        "22\"L x 18\"W x 34\"H (15lbs)",
+        "22\"L x 18\"W x 34\"H (5lbs)"
+      ],
+      "wattage": "4w",
+      "socket_type": "G9 bi-pin base",
+      "bulb_type": "G9 LED",
+      "bulb_included": "Yes",
+      "light_source": "LED",
+      "lumens": "400lm+400lm",
+      "cri": "82+",
+      "color_temperature": "3000k",
+      "dimmer_type": "ELV",
+      "hardwired": "No",
+      "ul_rating": "UL Rated by Request for +200",
+      "shade_material": "Mouth Blown Glass - Opal Matte Finish",
+      "light_style": "Ambient"
     },
     {
       "id": 26,
@@ -1779,7 +1822,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 28,
@@ -1826,7 +1872,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 29,
@@ -1868,7 +1917,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 30,
@@ -1915,7 +1967,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 31,
@@ -1957,7 +2012,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 38,
@@ -2003,7 +2061,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 39,
@@ -2044,7 +2105,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 40,
@@ -2091,7 +2155,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 41,
@@ -2132,7 +2199,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 42,
@@ -2174,7 +2244,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 43,
@@ -2215,7 +2288,10 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
-      "metal_finish": "Polished Nickel"
+      "metal_finish": "Polished Nickel",
+      "lumens": "800lm",
+      "cri": "90+",
+      "color_temperature": "2700k"
     },
     {
       "id": 63,
@@ -2532,7 +2608,8 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "wattage": "8W"
     },
     {
       "id": 82,
@@ -2575,7 +2652,8 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "wattage": "8W"
     },
     {
       "id": 83,
@@ -2618,7 +2696,8 @@
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
-      "metal_finish": "Antique Brass"
+      "metal_finish": "Antique Brass",
+      "wattage": "8W"
     },
     {
       "id": 11,
