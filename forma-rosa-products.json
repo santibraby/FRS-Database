@@ -145,7 +145,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Alabaster",
-      "finish": "Antique Brass",
       "list_price": 2150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -180,10 +179,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 33,
@@ -192,7 +191,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Alabaster",
-      "finish": "Polished Nickel",
       "list_price": 2150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -221,10 +219,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 34,
@@ -233,7 +231,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Green",
-      "finish": "Antique Brass",
       "list_price": 2150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -272,10 +269,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 35,
@@ -284,7 +281,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Green",
-      "finish": "Polished Nickel",
       "list_price": 2150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -313,10 +309,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 36,
@@ -325,7 +321,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Ox Blood",
-      "finish": "Antique Brass",
       "list_price": 2150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -357,10 +352,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 37,
@@ -369,7 +364,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Ox Blood",
-      "finish": "Polished Nickel",
       "list_price": 2150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -398,10 +392,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 44,
@@ -410,7 +404,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Acqua",
-      "finish": "Antique Brass",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -440,10 +433,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 45,
@@ -452,7 +445,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Acqua",
-      "finish": "Polished Nickel",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -492,10 +484,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 46,
@@ -504,7 +496,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Coral Cream",
-      "finish": "Antique Brass",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -534,10 +525,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 47,
@@ -546,7 +537,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Coral Cream",
-      "finish": "Polished Nickel",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -576,10 +566,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 48,
@@ -588,7 +578,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Dondo",
-      "finish": "Antique Brass",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -618,10 +607,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 49,
@@ -630,7 +619,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Dondo",
-      "finish": "Polished Nickel",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -660,10 +648,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 50,
@@ -672,7 +660,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Green",
-      "finish": "Antique Brass",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -702,10 +689,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 51,
@@ -714,7 +701,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Green",
-      "finish": "Polished Nickel",
       "list_price": 3150,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -744,10 +730,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 52,
@@ -756,7 +742,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Aqua",
-      "finish": "Antique Brass",
       "list_price": 3450,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -786,10 +771,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 53,
@@ -798,7 +783,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Aqua",
-      "finish": "Polished Nickel",
       "list_price": 3450,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -828,10 +812,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 54,
@@ -840,7 +824,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Matte Black",
-      "finish": "Antique Brass",
       "list_price": 3450,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -870,10 +853,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 55,
@@ -882,7 +865,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Matte Black",
-      "finish": "Polished Nickel",
       "list_price": 3450,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -912,10 +894,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 56,
@@ -924,7 +906,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Charcoal",
-      "finish": "Antique Brass",
       "list_price": 3450,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -954,10 +935,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 57,
@@ -966,7 +947,6 @@
       "family_name": "Wave Collection",
       "product_type": "Table Lamp",
       "color": "Charcoal",
-      "finish": "Polished Nickel",
       "list_price": 3450,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -996,10 +976,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 58,
@@ -1588,7 +1568,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Pendant Lighting",
       "color": "Crystal Cream",
-      "finish": "Antique Brass",
       "list_price": 3925,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1629,10 +1608,10 @@
       "dimmer_type": "ELV",
       "hardwired": "No",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass - Opal Matte Finish",
       "light_style": "Ambient",
-      "hanging_dimension": "8ft (Adjustable)"
+      "hanging_dimension": "8ft (Adjustable)",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 24,
@@ -1641,7 +1620,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Pendant Lighting",
       "color": "Dondo",
-      "finish": "Antique Brass",
       "list_price": 3925,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1681,10 +1659,10 @@
       "dimmer_type": "ELV",
       "hardwired": "No",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass - Opal Matte Finish",
       "light_style": "Ambient",
-      "hanging_dimension": "8ft (Adjustable)"
+      "hanging_dimension": "8ft (Adjustable)",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 25,
@@ -1693,7 +1671,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Pendant Lighting",
       "color": "Green",
-      "finish": "Antique Brass",
       "list_price": 3925,
       "country_of_origin": "USA",
       "size": "12\"W x 16\"H x 14\"D",
@@ -1707,7 +1684,8 @@
       "bulb_quantity": 2,
       "voltage": "120V",
       "dimmable": "Yes",
-      "hanging_dimension": "8ft (Adjustable)"
+      "hanging_dimension": "8ft (Adjustable)",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 26,
@@ -1716,7 +1694,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Bronze",
-      "finish": "Antique Brass",
       "list_price": 4900,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1757,10 +1734,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 27,
@@ -1769,7 +1746,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Bronze",
-      "finish": "Polished Nickel",
       "list_price": 4900,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1800,10 +1776,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 28,
@@ -1812,7 +1788,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Crystal Cream",
-      "finish": "Antique Brass",
       "list_price": 4900,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1848,10 +1823,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 29,
@@ -1860,7 +1835,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Crystal Cream",
-      "finish": "Polished Nickel",
       "list_price": 4900,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1891,10 +1865,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 30,
@@ -1903,7 +1877,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Charcoal",
-      "finish": "Antique Brass",
       "list_price": 4900,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1939,10 +1912,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 31,
@@ -1951,7 +1924,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Charcoal",
-      "finish": "Polished Nickel",
       "list_price": 4900,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -1982,10 +1954,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 38,
@@ -1994,7 +1966,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Bronze",
-      "finish": "Antique Brass",
       "list_price": 2250,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2029,10 +2000,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 39,
@@ -2041,7 +2012,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Bronze",
-      "finish": "Polished Nickel",
       "list_price": 2250,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2071,10 +2041,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 40,
@@ -2083,7 +2053,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Crystal Cream",
-      "finish": "Antique Brass",
       "list_price": 2250,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2119,10 +2088,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 41,
@@ -2131,7 +2100,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Crystal Cream",
-      "finish": "Polished Nickel",
       "list_price": 2250,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2161,10 +2129,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 42,
@@ -2173,7 +2141,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Charcoal",
-      "finish": "Antique Brass",
       "list_price": 2250,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2204,10 +2171,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 43,
@@ -2216,7 +2183,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Table Lamp",
       "color": "Charcoal",
-      "finish": "Polished Nickel",
       "list_price": 2250,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2246,10 +2212,10 @@
       "dimmer_type": "ELV",
       "hardwired": "Yes",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "metal_finish": "Polished Nickel"
     },
     {
       "id": 63,
@@ -2525,7 +2491,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Wall Sconce",
       "color": "Bronze",
-      "finish": "Antique Brass",
       "list_price": 3025,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2564,10 +2529,10 @@
       "dimmer_type": "ELV",
       "hardwired": "No",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 82,
@@ -2576,7 +2541,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Wall Sconce",
       "color": "Crystal Cream",
-      "finish": "Antique Brass",
       "list_price": 3025,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2608,10 +2572,10 @@
       "dimmer_type": "ELV",
       "hardwired": "No",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 83,
@@ -2620,7 +2584,6 @@
       "family_name": "Botryoidal Collection",
       "product_type": "Wall Sconce",
       "color": "Charcoal",
-      "finish": "Antique Brass",
       "list_price": 3025,
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
@@ -2652,10 +2615,10 @@
       "dimmer_type": "ELV",
       "hardwired": "No",
       "ul_rating": "UL Rated by Request for +200",
-      "metal_finish": "Brass",
       "shade_material": "Mouth Blown Glass Tala Bulb",
       "light_style": "Ambient",
-      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf"
+      "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
+      "metal_finish": "Antique Brass"
     },
     {
       "id": 11,
