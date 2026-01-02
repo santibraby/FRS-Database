@@ -17,7 +17,7 @@
       "name": "Drip"
     }
   ],
-  "last_updated": "2026-01-01",
+  "last_updated": "2026-01-02",
   "products": [
     {
       "carrier_type": "UPS",
@@ -652,7 +652,7 @@
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
       "hanging_dimension": "8ft (Adjustable)",
-      "hardwired": "No",
+      "hardwired": "Yes",
       "id": 23,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/06/LIGHTING_PENDANTS_Botryoidal-Pendant_Crystal-Cream_Backdrop_01_ON-scaled.jpg",
       "image_urls": [
@@ -704,7 +704,7 @@
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
       "hanging_dimension": "8ft (Adjustable)",
-      "hardwired": "No",
+      "hardwired": "Yes",
       "id": 24,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/06/LIGHTING_PENDANTS_Botryoidal-Pendant_DONDO_Backdrop_01_ON-scaled.jpg",
       "image_urls": [
@@ -758,7 +758,7 @@
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
       "hanging_dimension": "8ft (Adjustable)",
-      "hardwired": "No",
+      "hardwired": "Yes",
       "id": 25,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/06/LIGHTING_PENDANTS_Botryoidal-Pendant_Crystal-Cream_Backdrop_02_ON-scaled.jpg",
       "light_source": "LED",
@@ -799,7 +799,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 26,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp_Bronze_1-SILO-scaled.jpg",
       "image_urls": [
@@ -853,7 +853,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 27,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp_Bronze_1-SILO-NICKEL-scaled.jpg",
       "image_urls": [
@@ -900,7 +900,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 28,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp_Crystal-Cream_1-SILO-scaled.jpg",
       "image_urls": [
@@ -952,7 +952,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 29,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp_Crystal-Cream_1-SILO-NICKEL-scaled.jpg",
       "image_urls": [
@@ -999,7 +999,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 30,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp_Charcoal_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1051,7 +1051,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 31,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp_Charcoal_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1097,7 +1097,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 32,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Form-Lamp-Mini_Alabaster_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1146,7 +1146,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 33,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Form-Lamp-Mini_Alabaster_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1192,7 +1192,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 34,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Form-Lamp-Mini_Green_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1248,7 +1248,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 35,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Form-Lamp-Mini_Green_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1294,7 +1294,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 36,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Form-Lamp-Mini_Oxblood_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1343,7 +1343,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 37,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Form-Lamp-Mini_Oxblood_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1389,7 +1389,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 38,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp-Mini_Bronze_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1440,7 +1440,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 39,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp-Mini_Bronze_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1486,7 +1486,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 40,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp-Mini_Crystal-Cream_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1538,7 +1538,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 41,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp-Mini_Crystal-Cream_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1584,7 +1584,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 42,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp-Mini_Charcoal_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1631,7 +1631,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 43,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Botryoidal-Lamp-Mini_Charcoal_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1677,7 +1677,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 44,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Crystal-Acqua_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1723,7 +1723,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 45,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Crystal-Acqua_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1779,7 +1779,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 46,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Coral-Cream_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1825,7 +1825,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 47,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Coral-Cream_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1871,7 +1871,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 48,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Dondo_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1917,7 +1917,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 49,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Dondo_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -1963,7 +1963,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 50,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Green_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2009,7 +2009,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 51,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Kuwait-Lamp_Green_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2055,7 +2055,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 52,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Lamp-Slumped_Crystal-Acqua_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2101,7 +2101,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 53,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Lamp-Slumped_Crystal-Acqua_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2147,7 +2147,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 54,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Lamp-Slumped_Nocciola_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2193,7 +2193,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 55,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Lamp-Slumped_Nocciola_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2239,7 +2239,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 56,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Lamp-Slumped_Charcoal_Brass_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2285,7 +2285,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Wave Collection",
-      "hardwired": "Yes",
+      "hardwired": "No",
       "id": 57,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_TABLE-LAMPS_Wave-Lamp-Slumped_Charcoal_Nickel_1-SILO-scaled.jpg",
       "image_urls": [
@@ -2993,7 +2993,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "No",
+      "hardwired": "Yes",
       "id": 81,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_WALL-SCONCES_Botryoidal-Sconce_Bronze_1-SILO-scaled.jpg",
       "image_urls": [
@@ -3046,7 +3046,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "No",
+      "hardwired": "Yes",
       "id": 82,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_WALL-SCONCES_Botryoidal-Sconce_Crystal-Cream_1-SILO-scaled.jpg",
       "image_urls": [
@@ -3092,7 +3092,7 @@
       "dimmable": "Yes",
       "dimmer_type": "ELV",
       "family_name": "Botryoidal Collection",
-      "hardwired": "No",
+      "hardwired": "Yes",
       "id": 83,
       "image_url": "https://formarosastudio.com/wp-content/uploads/2025/12/LIGHTING_WALL-SCONCES_Botryoidal-Sconce_Charcoal_1-SILO-scaled.jpg",
       "image_urls": [
