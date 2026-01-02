@@ -17,7 +17,7 @@
       "name": "Drip"
     }
   ],
-  "last_updated": "2025-12-31",
+  "last_updated": "2026-01-01",
   "products": [
     {
       "carrier_type": "UPS",
@@ -39,7 +39,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Wave-Chair_Ocean-Blue_Insitu_01_sm.jpg"
       ],
       "list_price": 7500,
-      "manufacturer_id": "MCA-12-O",
+      "manufacturer_id": "MCA-12-OB",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Chair is our distinctive, nature-inspired design, crafted to embody organic curves and a rhythmic sense of growth. Each piece is digitally designed to mimic the fluid shapes found in nature, then brought to life through experimental ceramic craftsmanship. Handcrafted with intricate glaze work that drips and flows across the surface, this chair is both a functional seat and a statement art piece. Available in three captivating colorways—Oceano Azul, Coral Cream, and Pink—each finish enhances the chair’s unique, sculptural form. Explore the Wave Collection to discover complementary pieces that reflect this organic aesthetic.",
@@ -48,7 +48,9 @@
       "product_weight": "45lbs",
       "shipping_statement_type": "Made to Order",
       "size": "21\"W x 26\"H x 21\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
@@ -72,7 +74,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Wave-Chair_Coral-Cream_Insitu_01_sm.jpg"
       ],
       "list_price": 7500,
-      "manufacturer_id": "MCA-12-CC",
+      "manufacturer_id": "MCA-12-CO",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Chair is our distinctive, nature-inspired design, crafted to embody organic curves and a rhythmic sense of growth. Each piece is digitally designed to mimic the fluid shapes found in nature, then brought to life through experimental ceramic craftsmanship. Handcrafted with intricate glaze work that drips and flows across the surface, this chair is both a functional seat and a statement art piece. Available in three captivating colorways—Oceano Azul, Coral Cream, and Pink—each finish enhances the chair’s unique, sculptural form. Explore the Wave Collection to discover complementary pieces that reflect this organic aesthetic.",
@@ -81,7 +83,9 @@
       "product_weight": "45lbs",
       "shipping_statement_type": "Made to Order",
       "size": "21\"W x 26\"H x 21\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
@@ -99,7 +103,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Wave-Chair_Ocean-Blue_Insitu_01_sm.jpg"
       ],
       "list_price": 8250,
-      "manufacturer_id": "MCA-12-O-C",
+      "manufacturer_id": "MCA-12A-OB",
       "num_cartons": 2,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Chair is our distinctive, nature-inspired design, crafted to embody organic curves and a rhythmic sense of growth. Each piece is digitally designed to mimic the fluid shapes found in nature, then brought to life through experimental ceramic craftsmanship. Handcrafted with intricate glaze work that drips and flows across the surface, this chair is both a functional seat and a statement art piece. Available in three captivating colorways—Oceano Azul, Coral Cream, and Pink—each finish enhances the chair’s unique, sculptural form. Explore the Wave Collection to discover complementary pieces that reflect this organic aesthetic.",
@@ -108,14 +112,16 @@
       "product_weight": "48lbs",
       "shipping_statement_type": "Made to Order",
       "size": "21\"W x 26\"H x 21\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
       "carton_dimensions": [
         "21\"L x 21\"W x 34\"H (50lbs)"
       ],
-      "color": "Coral Cream with Cushion",
+      "color": "Crystal Pink with Cushion",
       "country_of_origin": "USA",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
       "family_name": "Wave Collection",
@@ -126,7 +132,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Wave-Chair_Coral-Cream_Backdrop_05_sm.jpg"
       ],
       "list_price": 8250,
-      "manufacturer_id": "MCA-12-P-C",
+      "manufacturer_id": "MCA-12A-CP",
       "num_cartons": 2,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Chair is our distinctive, nature-inspired design, crafted to embody organic curves and a rhythmic sense of growth. Each piece is digitally designed to mimic the fluid shapes found in nature, then brought to life through experimental ceramic craftsmanship. Handcrafted with intricate glaze work that drips and flows across the surface, this chair is both a functional seat and a statement art piece. Available in three captivating colorways—Oceano Azul, Coral Cream, and Pink—each finish enhances the chair’s unique, sculptural form. Explore the Wave Collection to discover complementary pieces that reflect this organic aesthetic.",
@@ -135,7 +141,9 @@
       "product_weight": "48lbs",
       "shipping_statement_type": "Made to Order",
       "size": "21\"W x 26\"H x 21\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-CHAIR-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
@@ -157,7 +165,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Caracoles-Stool_Crystal-Cream_Insitu_01_sm.jpg"
       ],
       "list_price": 5500,
-      "manufacturer_id": "MCA-13-C",
+      "manufacturer_id": "MCA-13-CC",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Caracoles Stool is our bold, nature-inspired design, digitally crafted to embody the fractal-like growth patterns found in the natural world. This piece is expertly shaped in ceramic and finished with experimental glazes that drip and flow organically across its surface, adding a rich, dynamic texture to each unique stool. Handcrafted with precision, the Caracoles Stool is available in several distinctive colorways, including Oxblood with Blue, Granite, and Pink. Ideal as both functional seating and a striking art piece, it’s designed to add a sculptural element to any space. Explore the collection for complementary pieces that reflect this organic aesthetic.",
@@ -166,7 +174,9 @@
       "product_weight": "40lbs",
       "shipping_statement_type": "Made to Order",
       "size": "18\"W x 20\"H x 18\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
@@ -187,7 +197,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Caracoles-Stool_Crystal-Pink_Insitu_01_sm.jpg"
       ],
       "list_price": 5500,
-      "manufacturer_id": "MCA-13-P",
+      "manufacturer_id": "MCA-13-CP",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Caracoles Stool is our bold, nature-inspired design, digitally crafted to embody the fractal-like growth patterns found in the natural world. This piece is expertly shaped in ceramic and finished with experimental glazes that drip and flow organically across its surface, adding a rich, dynamic texture to each unique stool. Handcrafted with precision, the Caracoles Stool is available in several distinctive colorways, including Oxblood with Blue, Granite, and Pink. Ideal as both functional seating and a striking art piece, it’s designed to add a sculptural element to any space. Explore the collection for complementary pieces that reflect this organic aesthetic.",
@@ -196,14 +206,16 @@
       "product_weight": "40lbs",
       "shipping_statement_type": "Made to Order",
       "size": "18\"W x 20\"H x 18\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
       "carton_dimensions": [
         "21\"L x 21\"W x 34\"H (40lbs)"
       ],
-      "color": "Ox Blood with Magnesium",
+      "color": "Oxblood with Magnesium",
       "country_of_origin": "PERU",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
       "family_name": "Botryoidal Collection",
@@ -218,7 +230,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Caracoles-Stool_Oxblood-Magnesium_Detail_02_sm.jpg"
       ],
       "list_price": 5500,
-      "manufacturer_id": "MCA-13-OM",
+      "manufacturer_id": "MCA-13-XM",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Caracoles Stool is our bold, nature-inspired design, digitally crafted to embody the fractal-like growth patterns found in the natural world. This piece is expertly shaped in ceramic and finished with experimental glazes that drip and flow organically across its surface, adding a rich, dynamic texture to each unique stool. Handcrafted with precision, the Caracoles Stool is available in several distinctive colorways, including Oxblood with Blue, Granite, and Pink. Ideal as both functional seating and a striking art piece, it’s designed to add a sculptural element to any space. Explore the collection for complementary pieces that reflect this organic aesthetic.",
@@ -227,14 +239,16 @@
       "product_weight": "40lbs",
       "shipping_statement_type": "Made to Order",
       "size": "18\"W x 20\"H x 18\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
       "carton_dimensions": [
         "21\"L x 21\"W x 34\"H (40lbs)"
       ],
-      "color": "Ox Blood with Blue",
+      "color": "Oxblood with Blue",
       "country_of_origin": "PERU",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
       "family_name": "Botryoidal Collection",
@@ -249,7 +263,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Caracoles-Stool_Oxblood-Blue_Detail_02_sm.jpg"
       ],
       "list_price": 5500,
-      "manufacturer_id": "MCA-13-OB",
+      "manufacturer_id": "MCA-13-XB",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Caracoles Stool is our bold, nature-inspired design, digitally crafted to embody the fractal-like growth patterns found in the natural world. This piece is expertly shaped in ceramic and finished with experimental glazes that drip and flow organically across its surface, adding a rich, dynamic texture to each unique stool. Handcrafted with precision, the Caracoles Stool is available in several distinctive colorways, including Oxblood with Blue, Granite, and Pink. Ideal as both functional seating and a striking art piece, it’s designed to add a sculptural element to any space. Explore the collection for complementary pieces that reflect this organic aesthetic.",
@@ -258,7 +272,9 @@
       "product_weight": "40lbs",
       "shipping_statement_type": "Made to Order",
       "size": "18\"W x 20\"H x 18\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
@@ -288,14 +304,16 @@
       "product_weight": "40lbs",
       "shipping_statement_type": "Made to Order",
       "size": "18\"W x 20\"H x 18\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-TOP-scaled.png"
     },
     {
       "carrier_type": "UPS",
       "carton_dimensions": [
         "21\"L x 21\"W x 34\"H (40lbs)"
       ],
-      "color": "Green",
+      "color": "Moss",
       "country_of_origin": "PERU",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
       "family_name": "Botryoidal Collection",
@@ -311,7 +329,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_SEATING_Caracoles-Stool_Green_Detail_02_sm.jpg"
       ],
       "list_price": 5500,
-      "manufacturer_id": "MCA-13-G",
+      "manufacturer_id": "MCA-13-MO",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Caracoles Stool is our bold, nature-inspired design, digitally crafted to embody the fractal-like growth patterns found in the natural world. This piece is expertly shaped in ceramic and finished with experimental glazes that drip and flow organically across its surface, adding a rich, dynamic texture to each unique stool. Handcrafted with precision, the Caracoles Stool is available in several distinctive colorways, including Oxblood with Blue, Granite, and Pink. Ideal as both functional seating and a striking art piece, it’s designed to add a sculptural element to any space. Explore the collection for complementary pieces that reflect this organic aesthetic.",
@@ -320,7 +338,9 @@
       "product_weight": "40lbs",
       "shipping_statement_type": "Made to Order",
       "size": "18\"W x 20\"H x 18\"D",
-      "sla_business_days": "30 Business Days"
+      "sla_business_days": "30 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/CARACOLES-STOOL-TOP-scaled.png"
     },
     {
       "carrier_type": "Freight",
@@ -336,7 +356,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-01_Polished-Bronze_Insitu-01-scaled.jpg"
       ],
       "list_price": 10500,
-      "manufacturer_id": "MCA-14-01B",
+      "manufacturer_id": "MCA-14A-PB",
       "num_cartons": 1,
       "overall_material": "Polished Bronze",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -360,7 +380,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-01_Mirror-Polished-Stainless-Steel_1-SILO-scaled.jpg"
       ],
       "list_price": 10500,
-      "manufacturer_id": "MCA-14-01S",
+      "manufacturer_id": "MCA-14A-PS",
       "num_cartons": 1,
       "overall_material": "Polished Stainless Steel",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -384,7 +404,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-02_Polished-Bronze_1-SILO-scaled.jpg"
       ],
       "list_price": 3500,
-      "manufacturer_id": "MCA-14-02B",
+      "manufacturer_id": "MCA-14B-PB",
       "num_cartons": 1,
       "overall_material": "Polished Bronze",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -408,7 +428,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-02_Mirror-Polished-Stainless-Steel_1-SILO-scaled.jpg"
       ],
       "list_price": 3500,
-      "manufacturer_id": "MCA-14-02S",
+      "manufacturer_id": "MCA-14B-PS",
       "num_cartons": 1,
       "overall_material": "Polished Stainless Steel",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -431,7 +451,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-03_Mirror-Polished-Bronze_1-SILO-scaled.jpg"
       ],
       "list_price": 14680,
-      "manufacturer_id": "MCA-14-03B",
+      "manufacturer_id": "MCA-14C-PB",
       "num_cartons": 1,
       "overall_material": "Polished Bronze",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -456,7 +476,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-03_Mirror-Polished-Stainless-Steel_INSITU-01-scaled.jpg"
       ],
       "list_price": 14680,
-      "manufacturer_id": "MCA-14-03S",
+      "manufacturer_id": "MCA-14C-PS",
       "num_cartons": 1,
       "overall_material": "Polished Stainless Steel",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -479,7 +499,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-04_Polished-Bronze_1-SILO-scaled.jpg"
       ],
       "list_price": 10350,
-      "manufacturer_id": "MCA-14-04B",
+      "manufacturer_id": "MCA-14D-PB",
       "num_cartons": 1,
       "overall_material": "Polished Bronze",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -504,7 +524,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-04_Mirror-Polished-Stainless-Steel_insitu-01-scaled.jpg"
       ],
       "list_price": 10350,
-      "manufacturer_id": "MCA-14-04S",
+      "manufacturer_id": "MCA-14D-PS",
       "num_cartons": 1,
       "overall_material": "Polished Stainless Steel",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -527,7 +547,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-05_Polished-Brass_1-SILO-scaled.jpg"
       ],
       "list_price": 10500,
-      "manufacturer_id": "MCA-14-05B",
+      "manufacturer_id": "MCA-14E-PB",
       "num_cartons": 1,
       "overall_material": "Polished Bronze",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -536,7 +556,8 @@
       "product_weight": "35lbs",
       "shipping_statement_type": "Made to Order",
       "size": "38\"W x 35\"H x 2\"D",
-      "sla_business_days": "60 Business Days"
+      "sla_business_days": "60 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/DRIP-MIRROR-1-FRONT-scaled.png"
     },
     {
       "carrier_type": "Freight",
@@ -552,7 +573,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-05_Mirror-Polished-Stainless-Steel_insitu-01-scaled.jpg"
       ],
       "list_price": 10500,
-      "manufacturer_id": "MCA-14-05S",
+      "manufacturer_id": "MCA-14E-PS",
       "num_cartons": 1,
       "overall_material": "Polished Stainless Steel",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -561,7 +582,8 @@
       "product_weight": "35lbs",
       "shipping_statement_type": "Made to Order",
       "size": "38\"W x 35\"H x 2\"D",
-      "sla_business_days": "60 Business Days"
+      "sla_business_days": "60 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/DRIP-MIRROR-1-FRONT-scaled.png"
     },
     {
       "carrier_type": "Freight",
@@ -575,7 +597,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-06_Polished-Bronze_1-SILO-scaled.jpg"
       ],
       "list_price": 9480,
-      "manufacturer_id": "MCA-14-06B",
+      "manufacturer_id": "MCA-14F-PB",
       "num_cartons": 1,
       "overall_material": "Polished Bronze",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -584,7 +606,8 @@
       "product_weight": "30lbs",
       "shipping_statement_type": "Made to Order",
       "size": "39\"W x 29\"H x 2\"D",
-      "sla_business_days": "60 Business Days"
+      "sla_business_days": "60 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/DRIP-MIRROR-2-FRONT-scaled.png"
     },
     {
       "carrier_type": "Freight",
@@ -599,7 +622,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/FURNITURE_MIRRORS_Drip-Mirror-06_Mirror-Polished-Stainless-Steel_1-SILO-scaled.jpg"
       ],
       "list_price": 9480,
-      "manufacturer_id": "MCA-14-06S",
+      "manufacturer_id": "MCA-14F-PS",
       "num_cartons": 1,
       "overall_material": "Polished Stainless Steel",
       "product_description": "The Drip Mirror is a bold and sculptural masterpiece that seamlessly blends fluid design with impeccable craftsmanship. Hand-cast in polished bronze or stainless steel, each mirror features a striking drip-like effect, transforming it into a functional piece of art. Its organic shape and reflective surface create a captivating focal point, radiating both strength and elegance. Perfect for making a statement in any space, the Drip Mirror is available in various sizes and finishes—each offering a distinct aesthetic. Explore the Drip Collection to discover all variations of this dynamic and timeless design.",
@@ -608,7 +631,8 @@
       "product_weight": "30lbs",
       "shipping_statement_type": "Made to Order",
       "size": "39\"W x 29\"H x 2\"D",
-      "sla_business_days": "60 Business Days"
+      "sla_business_days": "60 Business Days",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/DRIP-MIRROR-2-FRONT-scaled.png"
     },
     {
       "bulb_included": "Yes",
@@ -645,7 +669,7 @@
       "light_style": "Ambient",
       "list_price": 3925,
       "lumens": "400lm+400lm",
-      "manufacturer_id": "MCA-15-C",
+      "manufacturer_id": "MCA-15-CC-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -699,7 +723,7 @@
       "light_style": "Ambient",
       "list_price": 3925,
       "lumens": "400lm+400lm",
-      "manufacturer_id": "MCA-15-D",
+      "manufacturer_id": "MCA-15-DO-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -725,7 +749,7 @@
         "22\"L x 18\"W x 34\"H (15lbs)",
         "22\"L x 18\"W x 34\"H (5lbs)"
       ],
-      "color": "Green",
+      "color": "Moss",
       "color_temperature": "3000k",
       "country_of_origin": "USA",
       "cri": "82+",
@@ -741,7 +765,7 @@
       "light_style": "Ambient",
       "list_price": 3925,
       "lumens": "400lm+400lm",
-      "manufacturer_id": "MCA-15-G",
+      "manufacturer_id": "MCA-15-MO-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -792,7 +816,7 @@
       "light_style": "Ambient",
       "list_price": 4900,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-04B-BR",
+      "manufacturer_id": "MCA-04-BR-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -806,6 +830,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W+7W+8W"
@@ -837,8 +863,8 @@
       "light_style": "Ambient",
       "list_price": 4900,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-04B-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-04-BR-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "Inspired by the intricate beauty of botryoidal crystal formations, our Bubbly Lamp is digitally grown and meticulously handcrafted by skilled artisans in Peru. Each lamp is finished with custom glazes, giving it a one-of-a-kind texture and depth. Featuring three fully dimmable bulbs (6in, 4in, and 3in) with a custom brass dimmer knob, this piece is as functional as it is captivating. A custom-engraved brass plate at the base marks the unique edition number, adding a touch of exclusivity. Designed with a 120V Type A plug and available in three distinct colorways, the Bubbly Lamp can be customized to suit your space—please inquire for further options. Explore the collection for the full assortment and discover the artistry behind every piece.",
@@ -851,6 +877,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W+7W+8W"
@@ -887,7 +915,7 @@
       "light_style": "Ambient",
       "list_price": 4900,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-04C-BR",
+      "manufacturer_id": "MCA-04-CC-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -901,6 +929,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W+7W+8W"
@@ -932,8 +962,8 @@
       "light_style": "Ambient",
       "list_price": 4900,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-04C-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-04-CC-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "Inspired by the intricate beauty of botryoidal crystal formations, our Bubbly Lamp is digitally grown and meticulously handcrafted by skilled artisans in Peru. Each lamp is finished with custom glazes, giving it a one-of-a-kind texture and depth. Featuring three fully dimmable bulbs (6in, 4in, and 3in) with a custom brass dimmer knob, this piece is as functional as it is captivating. A custom-engraved brass plate at the base marks the unique edition number, adding a touch of exclusivity. Designed with a 120V Type A plug and available in three distinct colorways, the Bubbly Lamp can be customized to suit your space—please inquire for further options. Explore the collection for the full assortment and discover the artistry behind every piece.",
@@ -946,6 +976,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W+7W+8W"
@@ -982,7 +1014,7 @@
       "light_style": "Ambient",
       "list_price": 4900,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-04S-BR",
+      "manufacturer_id": "MCA-04-CH-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -996,6 +1028,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W+7W+8W"
@@ -1027,8 +1061,8 @@
       "light_style": "Ambient",
       "list_price": 4900,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-04S-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-04-CH-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "Inspired by the intricate beauty of botryoidal crystal formations, our Bubbly Lamp is digitally grown and meticulously handcrafted by skilled artisans in Peru. Each lamp is finished with custom glazes, giving it a one-of-a-kind texture and depth. Featuring three fully dimmable bulbs (6in, 4in, and 3in) with a custom brass dimmer knob, this piece is as functional as it is captivating. A custom-engraved brass plate at the base marks the unique edition number, adding a touch of exclusivity. Designed with a 120V Type A plug and available in three distinct colorways, the Bubbly Lamp can be customized to suit your space—please inquire for further options. Explore the collection for the full assortment and discover the artistry behind every piece.",
@@ -1041,6 +1075,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W+7W+8W"
@@ -1074,7 +1110,7 @@
       "light_style": "Ambient",
       "list_price": 2150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-05A-BR",
+      "manufacturer_id": "MCA-05-AL-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1088,6 +1124,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1118,8 +1156,8 @@
       "light_style": "Ambient",
       "list_price": 2150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-05A-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-05-AL-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Wave Form Table Lamp Mini is our classic, timeless design that combines digital precision with handcrafted charm. Each lamp is carefully shaped by artisans in Peru and finished with unique custom glazes that bring a sense of warmth and elegance to any space. Featuring a fully dimmable Tala Oblo LED bulb, a custom brass dimmer knob, and an engraved FRS brass plate at the base, this piece is thoughtfully designed down to the last detail. With metal accents handcrafted in Brooklyn, New York, it’s a true blend of global craftsmanship and local artistry. Available in a range of colorways, our Wave Form Lamp Mini is crafted to bring a personal touch to any room.",
@@ -1132,6 +1170,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1172,7 +1212,7 @@
       "light_style": "Ambient",
       "list_price": 2150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-05G-BR",
+      "manufacturer_id": "MCA-05-GN-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1186,6 +1226,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1216,8 +1258,8 @@
       "light_style": "Ambient",
       "list_price": 2150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-05G-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-05-GN-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Wave Form Table Lamp Mini is our classic, timeless design that combines digital precision with handcrafted charm. Each lamp is carefully shaped by artisans in Peru and finished with unique custom glazes that bring a sense of warmth and elegance to any space. Featuring a fully dimmable Tala Oblo LED bulb, a custom brass dimmer knob, and an engraved FRS brass plate at the base, this piece is thoughtfully designed down to the last detail. With metal accents handcrafted in Brooklyn, New York, it’s a true blend of global craftsmanship and local artistry. Available in a range of colorways, our Wave Form Lamp Mini is crafted to bring a personal touch to any room.",
@@ -1230,6 +1272,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1242,7 +1286,7 @@
       "carton_dimensions": [
         "20\"L x 14\"W x 14\"H (10lbs)"
       ],
-      "color": "Ox Blood",
+      "color": "Oxblood",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -1263,7 +1307,7 @@
       "light_style": "Ambient",
       "list_price": 2150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-05V-BR",
+      "manufacturer_id": "MCA-05-OX-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1277,6 +1321,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1289,7 +1335,7 @@
       "carton_dimensions": [
         "20\"L x 14\"W x 14\"H (10lbs)"
       ],
-      "color": "Ox Blood",
+      "color": "Oxblood",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -1307,8 +1353,8 @@
       "light_style": "Ambient",
       "list_price": 2150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-05V-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-05-OX-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Wave Form Table Lamp Mini is our classic, timeless design that combines digital precision with handcrafted charm. Each lamp is carefully shaped by artisans in Peru and finished with unique custom glazes that bring a sense of warmth and elegance to any space. Featuring a fully dimmable Tala Oblo LED bulb, a custom brass dimmer knob, and an engraved FRS brass plate at the base, this piece is thoughtfully designed down to the last detail. With metal accents handcrafted in Brooklyn, New York, it’s a true blend of global craftsmanship and local artistry. Available in a range of colorways, our Wave Form Lamp Mini is crafted to bring a personal touch to any room.",
@@ -1321,6 +1367,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Wave-Form-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/WAVE-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1356,7 +1404,7 @@
       "light_style": "Ambient",
       "list_price": 2250,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-07B-BR",
+      "manufacturer_id": "MCA-07-BR-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1370,6 +1418,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTYROIDAL-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1400,8 +1450,8 @@
       "light_style": "Ambient",
       "list_price": 2250,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-07B-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-07-BR-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "Inspired by the organic beauty of botryoidal crystal formations, our Bubbly Lamp Mini is digitally grown and carefully handcrafted by Peruvian artisans, each piece uniquely finished with custom glazes. This compact yet striking lamp features a fully dimmable 6-inch bulb controlled by a custom brass dimmer knob, making it as versatile as it is beautiful. Equipped with a 120V Type A plug, the Bubbly Lamp Mini is available in three exclusive colorways—Crystal Cream, Charcoal, and Bronze—and can be customized to perfectly complement your space. Explore the collection for the full range and inquire about customization options to make this piece uniquely yours.",
@@ -1414,6 +1464,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTYROIDAL-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1450,7 +1502,7 @@
       "light_style": "Ambient",
       "list_price": 2250,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-07C-BR",
+      "manufacturer_id": "MCA-07-CC-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1464,6 +1516,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTYROIDAL-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1494,8 +1548,8 @@
       "light_style": "Ambient",
       "list_price": 2250,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-07C-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-07-CC-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "Inspired by the organic beauty of botryoidal crystal formations, our Bubbly Lamp Mini is digitally grown and carefully handcrafted by Peruvian artisans, each piece uniquely finished with custom glazes. This compact yet striking lamp features a fully dimmable 6-inch bulb controlled by a custom brass dimmer knob, making it as versatile as it is beautiful. Equipped with a 120V Type A plug, the Bubbly Lamp Mini is available in three exclusive colorways—Crystal Cream, Charcoal, and Bronze—and can be customized to perfectly complement your space. Explore the collection for the full range and inquire about customization options to make this piece uniquely yours.",
@@ -1508,6 +1562,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTYROIDAL-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1539,7 +1595,7 @@
       "light_style": "Ambient",
       "list_price": 2250,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-07S-BR",
+      "manufacturer_id": "MCA-07-CH-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1553,6 +1609,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTYROIDAL-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1583,8 +1641,8 @@
       "light_style": "Ambient",
       "list_price": 2250,
       "lumens": "800lm",
-      "manufacturer_id": "MCA-07S-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-07-CH-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "Inspired by the organic beauty of botryoidal crystal formations, our Bubbly Lamp Mini is digitally grown and carefully handcrafted by Peruvian artisans, each piece uniquely finished with custom glazes. This compact yet striking lamp features a fully dimmable 6-inch bulb controlled by a custom brass dimmer knob, making it as versatile as it is beautiful. Equipped with a 120V Type A plug, the Bubbly Lamp Mini is available in three exclusive colorways—Crystal Cream, Charcoal, and Bronze—and can be customized to perfectly complement your space. Explore the collection for the full range and inquire about customization options to make this piece uniquely yours.",
@@ -1597,6 +1655,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Lamp-Mini-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-LAMP-MINI-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTYROIDAL-LAMP-MINI-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -1609,7 +1669,7 @@
       "carton_dimensions": [
         "24\"L x 12\"W x 12\"H (10lbs)"
       ],
-      "color": "Acqua",
+      "color": "Crystal Acqua",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -1627,7 +1687,7 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08CB-BR",
+      "manufacturer_id": "MCA-08-CA-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1641,6 +1701,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1653,7 +1715,7 @@
       "carton_dimensions": [
         "24\"L x 12\"W x 12\"H (10lbs)"
       ],
-      "color": "Acqua",
+      "color": "Crystal Acqua",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -1681,8 +1743,8 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08CB-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-08-CA-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Kuwait Lamp in Crystal Acqua is a timeless design that marries digital precision with handcrafted artistry. The ceramic body is meticulously crafted by skilled artisans and finished with unique custom glazes, bringing a classic yet contemporary touch to any space. Featuring a fully dimmable 6-inch Tala Oval LED bulb, a custom brass dimmer knob, and a beautifully engraved brass plate with the FRS logo, this lamp blends elegance with functionality. While the ceramic base is crafted with care, the refined metal details are custom-made in Brooklyn, New York, showcasing the blend of global craftsmanship and local precision. Available in the exclusive Crystal Acqua colorway, the Kuwait Lamp Mini adds a sophisticated glow to any setting.",
@@ -1695,6 +1757,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1725,7 +1789,7 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08CC-BR",
+      "manufacturer_id": "MCA-08-CO-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1739,6 +1803,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1769,8 +1835,8 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08CC-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-08-CO-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Kuwait Lamp in Crystal Acqua is a timeless design that marries digital precision with handcrafted artistry. The ceramic body is meticulously crafted by skilled artisans and finished with unique custom glazes, bringing a classic yet contemporary touch to any space. Featuring a fully dimmable 6-inch Tala Oval LED bulb, a custom brass dimmer knob, and a beautifully engraved brass plate with the FRS logo, this lamp blends elegance with functionality. While the ceramic base is crafted with care, the refined metal details are custom-made in Brooklyn, New York, showcasing the blend of global craftsmanship and local precision. Available in the exclusive Crystal Acqua colorway, the Kuwait Lamp Mini adds a sophisticated glow to any setting.",
@@ -1783,6 +1849,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1813,7 +1881,7 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08D-BR",
+      "manufacturer_id": "MCA-08-DO-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1827,6 +1895,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1857,8 +1927,8 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08D-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-08-DO-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Kuwait Lamp in Crystal Acqua is a timeless design that marries digital precision with handcrafted artistry. The ceramic body is meticulously crafted by skilled artisans and finished with unique custom glazes, bringing a classic yet contemporary touch to any space. Featuring a fully dimmable 6-inch Tala Oval LED bulb, a custom brass dimmer knob, and a beautifully engraved brass plate with the FRS logo, this lamp blends elegance with functionality. While the ceramic base is crafted with care, the refined metal details are custom-made in Brooklyn, New York, showcasing the blend of global craftsmanship and local precision. Available in the exclusive Crystal Acqua colorway, the Kuwait Lamp Mini adds a sophisticated glow to any setting.",
@@ -1871,6 +1941,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1901,7 +1973,7 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08G-BR",
+      "manufacturer_id": "MCA-08-GN-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -1915,6 +1987,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1945,8 +2019,8 @@
       "light_style": "Ambient",
       "list_price": 3150,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-08G-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-08-GN-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Kuwait Lamp in Crystal Acqua is a timeless design that marries digital precision with handcrafted artistry. The ceramic body is meticulously crafted by skilled artisans and finished with unique custom glazes, bringing a classic yet contemporary touch to any space. Featuring a fully dimmable 6-inch Tala Oval LED bulb, a custom brass dimmer knob, and a beautifully engraved brass plate with the FRS logo, this lamp blends elegance with functionality. While the ceramic base is crafted with care, the refined metal details are custom-made in Brooklyn, New York, showcasing the blend of global craftsmanship and local precision. Available in the exclusive Crystal Acqua colorway, the Kuwait Lamp Mini adds a sophisticated glow to any setting.",
@@ -1959,6 +2033,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Kuwait-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/KUWAIT-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -1971,7 +2047,7 @@
       "carton_dimensions": [
         "24\"L x 12\"W x 12\"H (15lbs)"
       ],
-      "color": "Aqua",
+      "color": "Crystal Acqua",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -1989,7 +2065,7 @@
       "light_style": "Ambient",
       "list_price": 3450,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-11CB-BR",
+      "manufacturer_id": "MCA-11-CA-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -2003,6 +2079,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -2015,7 +2093,7 @@
       "carton_dimensions": [
         "24\"L x 12\"W x 12\"H (15lbs)"
       ],
-      "color": "Aqua",
+      "color": "Crystal Acqua",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -2033,8 +2111,8 @@
       "light_style": "Ambient",
       "list_price": 3450,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-11CB-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-11-CA-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Wave Form Lamp “Slumped” is our unique, custom design that combines digital precision with the natural effects of gravity and kiln chemistry. Shown in a hand-brushed Cream Glaze, this piece is handcrafted in our Brooklyn Studio, bringing an organic elegance to any setting. Each lamp is fully customizable to suit your vision, from glaze finish to metal detailing. Featuring a dimmable Tala Oval LED bulb, the Slumped Lamp embodies our commitment to craftsmanship and innovation. Reach out to collaborate on your own bespoke piece and let us curate the perfect finish for your space.",
@@ -2047,6 +2125,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -2059,7 +2139,7 @@
       "carton_dimensions": [
         "24\"L x 12\"W x 12\"H (15lbs)"
       ],
-      "color": "Matte Black",
+      "color": "Crema Nocciola",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -2077,7 +2157,7 @@
       "light_style": "Ambient",
       "list_price": 3450,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-11N-BR",
+      "manufacturer_id": "MCA-11-CN-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -2091,6 +2171,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -2103,7 +2185,7 @@
       "carton_dimensions": [
         "24\"L x 12\"W x 12\"H (15lbs)"
       ],
-      "color": "Matte Black",
+      "color": "Crema Nocciola",
       "color_temperature": "2700k",
       "country_of_origin": "USA",
       "cri": "90+",
@@ -2121,8 +2203,8 @@
       "light_style": "Ambient",
       "list_price": 3450,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-11N-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-11-CN-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Wave Form Lamp “Slumped” is our unique, custom design that combines digital precision with the natural effects of gravity and kiln chemistry. Shown in a hand-brushed Cream Glaze, this piece is handcrafted in our Brooklyn Studio, bringing an organic elegance to any setting. Each lamp is fully customizable to suit your vision, from glaze finish to metal detailing. Featuring a dimmable Tala Oval LED bulb, the Slumped Lamp embodies our commitment to craftsmanship and innovation. Reach out to collaborate on your own bespoke piece and let us curate the perfect finish for your space.",
@@ -2135,6 +2217,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -2165,7 +2249,7 @@
       "light_style": "Ambient",
       "list_price": 3450,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-11S-BR",
+      "manufacturer_id": "MCA-11-CH-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -2179,6 +2263,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -2209,8 +2295,8 @@
       "light_style": "Ambient",
       "list_price": 3450,
       "lumens": "300lm",
-      "manufacturer_id": "MCA-11S-NI",
-      "metal_finish": "Polished Nickel",
+      "manufacturer_id": "MCA-11-CH-BN",
+      "metal_finish": "Brushed Nickel",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
       "product_description": "The Wave Form Lamp “Slumped” is our unique, custom design that combines digital precision with the natural effects of gravity and kiln chemistry. Shown in a hand-brushed Cream Glaze, this piece is handcrafted in our Brooklyn Studio, bringing an organic elegance to any setting. Each lamp is fully customizable to suit your vision, from glaze finish to metal detailing. Featuring a dimmable Tala Oval LED bulb, the Slumped Lamp embodies our commitment to craftsmanship and innovation. Reach out to collaborate on your own bespoke piece and let us curate the perfect finish for your space.",
@@ -2223,6 +2309,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Slumped-Lamp-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/SLUMPED-LAMP-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "6W"
@@ -2243,7 +2331,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Wave-Vase_Crystal-Cream_1-SILO-scaled.jpg"
       ],
       "list_price": 200,
-      "manufacturer_id": "MCA-01C",
+      "manufacturer_id": "MCA-01-CC",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase is our classic, timeless design, blending digital precision with handcrafted artistry. Carefully crafted by Peruvian artisans, this vase offers an elegant balance of form and function. Its flowing silhouette and minimal aesthetic make it a perfect addition to any home—whether as a sophisticated vessel for your florals or a sculptural centerpiece for your table. Available in five stunning finishes—Mint Blue, Matte Black, Matte White, Oxblood, and Crystal Cream Glaze—the Wave Form Vase brings a refined sense of artistry and sophistication to your space. Explore the Wave Form Vase Collection for the full assortment.",
@@ -2270,7 +2358,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Wave-Vase_Mint-Blue_1-SILO-scaled.jpg"
       ],
       "list_price": 200,
-      "manufacturer_id": "MCA-01CC",
+      "manufacturer_id": "MCA-01-MI",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase is our classic, timeless design, blending digital precision with handcrafted artistry. Carefully crafted by Peruvian artisans, this vase offers an elegant balance of form and function. Its flowing silhouette and minimal aesthetic make it a perfect addition to any home—whether as a sophisticated vessel for your florals or a sculptural centerpiece for your table. Available in five stunning finishes—Mint Blue, Matte Black, Matte White, Oxblood, and Crystal Cream Glaze—the Wave Form Vase brings a refined sense of artistry and sophistication to your space. Explore the Wave Form Vase Collection for the full assortment.",
@@ -2298,7 +2386,7 @@
         "https://formarosastudio.com/wp-content/uploads/2024/10/VESSELS_VASES_Wave-Vase_Matte-Black_Insitu_01_sm.jpg"
       ],
       "list_price": 150,
-      "manufacturer_id": "MCA-01N",
+      "manufacturer_id": "MCA-01-MB",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase is our classic, timeless design, blending digital precision with handcrafted artistry. Carefully crafted by Peruvian artisans, this vase offers an elegant balance of form and function. Its flowing silhouette and minimal aesthetic make it a perfect addition to any home—whether as a sophisticated vessel for your florals or a sculptural centerpiece for your table. Available in five stunning finishes—Mint Blue, Matte Black, Matte White, Oxblood, and Crystal Cream Glaze—the Wave Form Vase brings a refined sense of artistry and sophistication to your space. Explore the Wave Form Vase Collection for the full assortment.",
@@ -2314,7 +2402,7 @@
       "carton_dimensions": [
         "12\"L x 9\"W x 9\"H (5lbs)"
       ],
-      "color": "Ox Blood",
+      "color": "Oxblood",
       "country_of_origin": "PERU",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
       "family_name": "Wave Collection",
@@ -2325,7 +2413,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Wave-Vase_Oxblood_1-SILO-scaled.jpg"
       ],
       "list_price": 200,
-      "manufacturer_id": "MCA-01V",
+      "manufacturer_id": "MCA-01-OX",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase is our classic, timeless design, blending digital precision with handcrafted artistry. Carefully crafted by Peruvian artisans, this vase offers an elegant balance of form and function. Its flowing silhouette and minimal aesthetic make it a perfect addition to any home—whether as a sophisticated vessel for your florals or a sculptural centerpiece for your table. Available in five stunning finishes—Mint Blue, Matte Black, Matte White, Oxblood, and Crystal Cream Glaze—the Wave Form Vase brings a refined sense of artistry and sophistication to your space. Explore the Wave Form Vase Collection for the full assortment.",
@@ -2353,7 +2441,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Wave-Vase_Matte-White_Detail_01_sm.jpg"
       ],
       "list_price": 150,
-      "manufacturer_id": "MCA-01W",
+      "manufacturer_id": "MCA-01-MW",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase is our classic, timeless design, blending digital precision with handcrafted artistry. Carefully crafted by Peruvian artisans, this vase offers an elegant balance of form and function. Its flowing silhouette and minimal aesthetic make it a perfect addition to any home—whether as a sophisticated vessel for your florals or a sculptural centerpiece for your table. Available in five stunning finishes—Mint Blue, Matte Black, Matte White, Oxblood, and Crystal Cream Glaze—the Wave Form Vase brings a refined sense of artistry and sophistication to your space. Explore the Wave Form Vase Collection for the full assortment.",
@@ -2381,7 +2469,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter_Bronze_1-SILO-scaled.jpg"
       ],
       "list_price": 350,
-      "manufacturer_id": "MCA-02B",
+      "manufacturer_id": "MCA-02-BR",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter is our sculptural tribute to nature’s fractal beauty, digitally grown to emulate the organic growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, each planter is finished with custom glazes that highlight its intricate form. Designed with three distinct openings of varying sizes, it provides a creative way to display plants while incorporating practical drainage holes at the base. Perfect as a functional planter or a striking sculptural centerpiece, the Botryoidal Planter is available in five captivating finishes: Bronze Glaze, Pool Blue, Green, Matte Black, and Matte White. Discover the collection to explore the full range of colorways and designs.",
@@ -2409,7 +2497,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter_Green_1-SILO-scaled.jpg"
       ],
       "list_price": 350,
-      "manufacturer_id": "MCA-02G",
+      "manufacturer_id": "MCA-02-GN",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter is our sculptural tribute to nature’s fractal beauty, digitally grown to emulate the organic growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, each planter is finished with custom glazes that highlight its intricate form. Designed with three distinct openings of varying sizes, it provides a creative way to display plants while incorporating practical drainage holes at the base. Perfect as a functional planter or a striking sculptural centerpiece, the Botryoidal Planter is available in five captivating finishes: Bronze Glaze, Pool Blue, Green, Matte Black, and Matte White. Discover the collection to explore the full range of colorways and designs.",
@@ -2437,7 +2525,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter_Matte-Black_1-SILO-scaled.jpg"
       ],
       "list_price": 350,
-      "manufacturer_id": "MCA-02N",
+      "manufacturer_id": "MCA-02-MB",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter is our sculptural tribute to nature’s fractal beauty, digitally grown to emulate the organic growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, each planter is finished with custom glazes that highlight its intricate form. Designed with three distinct openings of varying sizes, it provides a creative way to display plants while incorporating practical drainage holes at the base. Perfect as a functional planter or a striking sculptural centerpiece, the Botryoidal Planter is available in five captivating finishes: Bronze Glaze, Pool Blue, Green, Matte Black, and Matte White. Discover the collection to explore the full range of colorways and designs.",
@@ -2465,7 +2553,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter_Pool-Blue_1-SILO-scaled.jpg"
       ],
       "list_price": 350,
-      "manufacturer_id": "MCA-02P",
+      "manufacturer_id": "MCA-02-GP",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter is our sculptural tribute to nature’s fractal beauty, digitally grown to emulate the organic growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, each planter is finished with custom glazes that highlight its intricate form. Designed with three distinct openings of varying sizes, it provides a creative way to display plants while incorporating practical drainage holes at the base. Perfect as a functional planter or a striking sculptural centerpiece, the Botryoidal Planter is available in five captivating finishes: Bronze Glaze, Pool Blue, Green, Matte Black, and Matte White. Discover the collection to explore the full range of colorways and designs.",
@@ -2496,7 +2584,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter_White_Insitu_03_sm.jpg"
       ],
       "list_price": 350,
-      "manufacturer_id": "MCA-02W",
+      "manufacturer_id": "MCA-02-MW",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter is our sculptural tribute to nature’s fractal beauty, digitally grown to emulate the organic growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, each planter is finished with custom glazes that highlight its intricate form. Designed with three distinct openings of varying sizes, it provides a creative way to display plants while incorporating practical drainage holes at the base. Perfect as a functional planter or a striking sculptural centerpiece, the Botryoidal Planter is available in five captivating finishes: Bronze Glaze, Pool Blue, Green, Matte Black, and Matte White. Discover the collection to explore the full range of colorways and designs.",
@@ -2523,7 +2611,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Alabaster_1-SILO-scaled.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03A",
+      "manufacturer_id": "MCA-03-AL",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2554,7 +2642,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Bronze_Insitu_02_sm.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03B",
+      "manufacturer_id": "MCA-03-BR",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2583,7 +2671,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Crystal-Cream_1-SILO-scaled.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03C",
+      "manufacturer_id": "MCA-03-CC",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2611,7 +2699,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Mint-Blue_1-SILO-scaled.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03CC",
+      "manufacturer_id": "MCA-03-MI",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2643,7 +2731,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Green_Insitu_01_sm.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03G",
+      "manufacturer_id": "MCA-03-GN",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2671,7 +2759,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Matte-Black_Detail_01_sm.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03N",
+      "manufacturer_id": "MCA-03-MB",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2699,7 +2787,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Pool-Blue_Detail_02_sm.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03P",
+      "manufacturer_id": "MCA-03-GP",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2715,7 +2803,7 @@
       "carton_dimensions": [
         "12\"L x 9\"W x 9\"H (5lbs)"
       ],
-      "color": "Ox Blood",
+      "color": "Oxblood",
       "country_of_origin": "PERU",
       "designer_name": "Maria Castillo Irribarren and Santiago Braby Brown",
       "family_name": "Wave Collection",
@@ -2726,7 +2814,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Oxblood_1-SILO-scaled.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03V",
+      "manufacturer_id": "MCA-03-OX",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2754,7 +2842,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_VASES_Mini-Wave-Vase_Matte-White_Detail_01_sm.jpg"
       ],
       "list_price": 145,
-      "manufacturer_id": "MCA-03W",
+      "manufacturer_id": "MCA-03-MW",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Wave Form Vase Mini is our classic, timeless design, combining digital precision with artisan craftsmanship. Handcrafted by Peruvian artisans, this petite vase offers a versatile blend of functionality and artistry. Perfect for housing small florals or serving as a sculptural centerpiece, its flowing silhouette complements minimal and sophisticated interiors alike. Available in nine beautiful finishes—Mint Blue, Oxblood, Alabaster, Crystal Cream, Pool Blue, Green, Bronze Glaze, Matte White, and Matte Black—the Wave Form Vase Mini brings an artistic touch to any setting. Explore the full Wave Form Vase Collection to find your perfect match.",
@@ -2785,7 +2873,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter-Mini_Bronze_Detail_01_sm.jpg"
       ],
       "list_price": 215,
-      "manufacturer_id": "MCA-06B",
+      "manufacturer_id": "MCA-06-BR",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter Mini is our compact, nature-inspired design, digitally grown to mimic the organic fractal growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, this petite planter features a 4-inch opening, perfect for housing small plants, and a practical dish at the base to collect water during drainage. Finished with unique custom glazes, it’s a striking addition to any interior. Available in four stunning finishes—Bronze Glaze, Green, Charcoal, and Crystal Cream—the Botryoidal Planter Mini combines functionality with sculptural artistry. Explore the collection to discover the full range of designs.",
@@ -2816,7 +2904,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter-Mini_Crystal-Cream_Detail_01_sm.jpg"
       ],
       "list_price": 215,
-      "manufacturer_id": "MCA-06C",
+      "manufacturer_id": "MCA-06-CC",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter Mini is our compact, nature-inspired design, digitally grown to mimic the organic fractal growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, this petite planter features a 4-inch opening, perfect for housing small plants, and a practical dish at the base to collect water during drainage. Finished with unique custom glazes, it’s a striking addition to any interior. Available in four stunning finishes—Bronze Glaze, Green, Charcoal, and Crystal Cream—the Botryoidal Planter Mini combines functionality with sculptural artistry. Explore the collection to discover the full range of designs.",
@@ -2847,7 +2935,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter-Mini_Green_Detail_01_sm.jpg"
       ],
       "list_price": 215,
-      "manufacturer_id": "MCA-06G",
+      "manufacturer_id": "MCA-06-GN",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter Mini is our compact, nature-inspired design, digitally grown to mimic the organic fractal growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, this petite planter features a 4-inch opening, perfect for housing small plants, and a practical dish at the base to collect water during drainage. Finished with unique custom glazes, it’s a striking addition to any interior. Available in four stunning finishes—Bronze Glaze, Green, Charcoal, and Crystal Cream—the Botryoidal Planter Mini combines functionality with sculptural artistry. Explore the collection to discover the full range of designs.",
@@ -2878,7 +2966,7 @@
         "https://formarosastudio.com/wp-content/uploads/2025/12/VESSELS_PLANTERS_Botryoidal-Planter-Mini_Charcoal_Detail_-01_sm.jpg"
       ],
       "list_price": 215,
-      "manufacturer_id": "MCA-06S",
+      "manufacturer_id": "MCA-06-CH",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic",
       "product_description": "The Botryoidal Planter Mini is our compact, nature-inspired design, digitally grown to mimic the organic fractal growth of botryoidal crystals. Handcrafted by skilled artisans in Peru, this petite planter features a 4-inch opening, perfect for housing small plants, and a practical dish at the base to collect water during drainage. Finished with unique custom glazes, it’s a striking addition to any interior. Available in four stunning finishes—Bronze Glaze, Green, Charcoal, and Crystal Cream—the Botryoidal Planter Mini combines functionality with sculptural artistry. Explore the collection to discover the full range of designs.",
@@ -2922,7 +3010,7 @@
       "light_style": "Ambient",
       "list_price": 3025,
       "lumens": "680lm",
-      "manufacturer_id": "MCA-09B-BR",
+      "manufacturer_id": "MCA-09-BR-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -2936,6 +3024,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-SCONCE-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-SCONCE-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -2966,7 +3056,7 @@
       "light_style": "Ambient",
       "list_price": 3025,
       "lumens": "680lm",
-      "manufacturer_id": "MCA-09C-BR",
+      "manufacturer_id": "MCA-09-CC-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -2980,6 +3070,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-SCONCE-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-SCONCE-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
@@ -3010,7 +3102,7 @@
       "light_style": "Ambient",
       "list_price": 3025,
       "lumens": "680lm",
-      "manufacturer_id": "MCA-09S-BR",
+      "manufacturer_id": "MCA-09-CH-AB",
       "metal_finish": "Antique Brass",
       "num_cartons": 1,
       "overall_material": "Handcrafted Ceramic with Customizable Metal Details",
@@ -3024,6 +3116,8 @@
       "sla_business_days": "30 Business Days",
       "socket_type": "E26",
       "spec_sheet": "https://formarosastudio.com/wp-content/uploads/2025/12/Botryoidal-Sconce-Spec-Sheet.pdf",
+      "technical_drawing_front": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-SCONCE-FRONT-scaled.png",
+      "technical_drawing_top": "https://formarosastudio.com/wp-content/uploads/2025/12/BOTRYOIDAL-SCONCE-TOP-scaled.png",
       "ul_rating": "UL Rated by Request for +200",
       "voltage": "120V",
       "wattage": "8W"
